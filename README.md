@@ -1,2 +1,3 @@
 # arc
- A cluster aware image & video reconstruction model.
+
+A cluster aware image & video reconstruction model.
